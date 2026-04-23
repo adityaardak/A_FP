@@ -17,10 +17,10 @@ APP_TITLE = "Payroll Command Studio"
 DATA_FILE = Path(__file__).with_name("final_payroll_with_prediction.xlsx")
 PBIX_FILE = Path(__file__).with_name("Final Dashboard.pbix")
 POWER_BI_EMBED_URL = (
-    "https://app.powerbi.com/reportEmbed?"
-    "reportId=1958d7a4-7c8a-4669-9c2a-e77a14cf0896&autoAuth=true&"
-    "ctid=ad06ef22-d6dc-4a55-b4c1-c3a158f5f147&actionBarEnabled=true&"
-    "reportCopilotInEmbed=true"
+    "https://app.powerbi.com/reportEmbed"
+    "?reportId=b53701f5-a0af-4687-8b8c-c0ff1b9ccc3d"
+    "&autoAuth=true"
+    "&ctid=aed43286-0f66-47d6-942b-d31a4b8addca"
 )
 
 
